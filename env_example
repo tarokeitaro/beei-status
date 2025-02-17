@@ -1,0 +1,4 @@
+USERNAME=your_username
+PASSWORD=your_password
+REMEMBER=1
+TARGET_URL=https://beei.org/index.php/EEI/author/submission/00000
