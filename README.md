@@ -1,6 +1,6 @@
 # BEEI-STATUS
 ## Description
-This tool is specifically designed to help students who want to publish on the BEEI (Bulletin of Electrical Engineering and Informatics) website by checking their journal review status instantly. By using this tool, you do not need to open a browser and enter credentials every time you want to get the latest information about the status of your publication on BEEI. **This tool only works for the BEEI website and cannot be used for other websites.
+This tool is specifically designed to help students who want to publish on the BEEI (Bulletin of Electrical Engineering and Informatics) website by checking their journal review status instantly. By using this tool, you do not need to open a browser and enter credentials every time you want to get the latest information about the status of your publication on BEEI. **This tool only works for the BEEI website and cannot be used for other websites**.
 
 ## Features
 - Check journal review status in one click.
